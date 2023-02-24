@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yan Christofer S.</h1>
-<h3 align="center">Second-year CS Student, future InfoSec Engineer. My interest in information and technology development brought me to University of Indonesia, where I am learning Computer Science.</h3>
+<h1 align="center">Hi 👋, I'm Yan Christofer Silalahi.</h1>
+<h3 align="center">A second-year CS Student, future InfoSec Engineer. My interest in information and technology development brought me to University of Indonesia, where I am learning Computer Science.</h3>
 
 - 🌱 I’m currently learning **Ethical Hacking (focusing on web and binary exploitation)**
 
-- 📫 How to reach me **yanchristof@gmail.com**
+- 📫 Kindly reach me : **yanchristof@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
