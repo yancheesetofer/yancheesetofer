@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yan Christofer Silalahi.</h1>
-<h3 align="center">A final-year CS Student, future InfoSec Engineer with almost 2 years of professional experience in product engineering. My interest in information and technology development brought me to University of Indonesia, where I am learning Computer Science.</h3>
+<h3 align="center">A final-year CS Student, future InfoSec Engineer with almost 3 years of professional experience in product engineering. My interest in information and technology development brought me to University of Indonesia, where I am learning Computer Science.</h3>
 
-- Currently being a passionate full-stack developer, learning new things everyday.
+- Currently being a passionate software engineer @GoTo Financial.
 
 - 📫 Kindly reach me : **yanchristof@gmail.com**
 
